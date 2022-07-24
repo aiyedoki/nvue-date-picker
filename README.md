@@ -21,6 +21,8 @@
 
 1、[进入Releases发布页](https://github.com/aiyedoki/nvue-date-picker/releases/tag/publish)，下载 `nvue-date-picker-1.1.7z` 压缩包。
 
+​	（ 不建议在DCloud插件市场下载，代码可能报错。）
+
 2、解压后将 date-picker 文件夹复制到项目的 /components 目录内。
 
 3、运行下列命令安装 day.js ,如已安装可跳过
